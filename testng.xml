@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" configfailurepolicy="continue">
+  <test name="Test">
+    <classes>
+    
+    <class name="com.spp.scripts.MonthlyAttendance"/>
+    
+    
+    <!--<class name="com.spp.scripts.AttendanceIntegration"/>
+    <class name="com.spp.scripts.MonthlyLeaveSummary"/>
+    <class name="com.spp.scripts.SalaryRateDetails"/>
+    <class name="com.spp.scripts.ApplyLeave"/>
+    <class name="com.spp.scripts.LeaveAllotAvailDateSettings"/>
+    <class name="com.spp.scripts.RestrictPFContribution"/>
+    <class name="com.spp.scripts.BulkIncrementDetails"/>
+    <class name="com.spp.scripts.BulkClassificationChange"/>
+    <class name="com.spp.scripts.SetLeaveOpeningBalance"/>
+    <class name="com.spp.scripts.ManualLeaveAllotmentscript"/> -->
+<!--<class name="com.spp.scripts.CompanyStatutories"/>
+    <class name="com.spp.scripts.CompanyTestcase01"/>
+	<class name="com.spp.scripts.SalaryHeadTestcase"/>
+	<class name="com.spp.scripts.InsuranceMaster"/>
+	<class name="com.spp.scripts.GroupInsuranceMaster"/>
+	<class name="com.spp.scripts.LeaveDefinitions"/>
+	<class name="com.spp.scripts.HolidayList"/>
+	<class name="com.spp.scripts.MasterWeeklyHoliday"/>
+	<class name="com.spp.scripts.AttendanceConfigurations"/>
+	<class name="com.spp.scripts.States"/>
+	<class name="com.spp.scripts.Classifications"/>
+	<class name="com.spp.scripts.HRCategory"/>
+	<class name="com.spp.scripts.FinancialInstitution"/>
+	<class name="com.spp.scripts.FormulaEditor"/>
+	<class name="com.spp.scripts.ReimbursementMaster"/>-->
+	<!--<class name="com.spp.scripts.EmployeeDetails"/>
+	<class name="com.spp.scripts.ReimbursementAllotment"/>-->
+   <!--<class name="com.spp.scripts.ReimbursementClaim"/>
+   <class name="com.spp.scripts.Arrears"/>
+   <class name="com.spp.scripts.LeavePolicy"/>
+   <class name="com.spp.scripts.FullandFinalSettlement"/>
+   <class name="com.spp.scripts.SalarySheet"/>
+   <class name="com.spp.scripts.UserSettings"/>
+   <class name="com.spp.scripts.GeneralSettings"/>-->
+    <!--<class name="com.spp.scripts.LoanMaster"/> 
+    <class name="com.spp.scripts.Bonus"/>-->
+   <!--<class name="com.spp.scripts.ReportingAuthority"/>
+    <class name="com.spp.scripts.Leave"/>-->
+	<!--<class name="com.spp.scripts.AdditionalSalary"/>
+   <class name="com.spp.scripts.AdvanceMaster"/>
+   <class name="com.spp.scripts.PerodicIncentiveMaster"/>    
+   <class name="com.spp.scripts.AdvanceDetail"/>		 
+   <class name="com.spp.scripts.LoanDetail"/>
+   <class name="com.spp.scripts.InsuranceDetail"/> 
+   <class name="com.spp.scripts.PeriodicIncentiveDetail"/>
+   <class name="com.spp.scripts.GroupInsuranceDetail"/>
+   <class name="com.spp.scripts.ReportWriter"/>-->
+ 	<!--<class name="com.spp.scripts.Reports"/>
+	<class name="com.spp.scripts.Salary"/> 
+	<class name="com.spp.scripts.FinancialInstitutionBank"/>
+    <class name="com.spp.scripts.SalarySheetTestPlan"/> 
+    <class name="com.spp.scripts.TDSArrears"/>
+    <class name="com.spp.scripts.Paymonths"/>
+    <class name="com.spp.scripts.LoginAdmin"/>-->
+
+	 </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

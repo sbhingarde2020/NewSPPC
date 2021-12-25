@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/javadbf-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/mssql-jdbc-6.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/MOSLWIRE/mosl_lib/zip4j_1.3.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
